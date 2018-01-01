@@ -1,0 +1,11 @@
+{
+  "name": "FranticSearchServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gvanderclay/FranticSearchServer.git",
+  "author": "Gage Vander Clay <gvanderclay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^1.3.2"
+  }
+}
