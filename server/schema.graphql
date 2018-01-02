@@ -1,0 +1,7 @@
+type Query {
+  cardSearch(name: String): [Card!]!
+}
+
+type Card {
+  name: String!
+}
